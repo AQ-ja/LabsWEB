@@ -1,0 +1,15 @@
+#Header{
+    Color:white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-variant: small-caps;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+#intentos{
+    Color:rgb(12, 12, 12);
+}
